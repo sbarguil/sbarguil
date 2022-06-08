@@ -3,10 +3,10 @@
 ## I'm a Engineer, Triathlete, Developer, and Teacher!!
 
 - 🔭 I'm just finishing my PhD. 
-- 🌱 I’m currently learning to enhance my communication skilss.
+- I’m currently learning to enhance my communication skils 🌱. 
 - I’m looking to collaborate with others in Network Automation and SDN.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- 
+- Swim, Bike and Run [Strava](https://www.strava.com/athletes/16161762)
 
 ### Connect with me:
 
